@@ -13,11 +13,11 @@ John Winters
 1.0.0
 
 ## Getting Started
-1.) In the terminal, create a folder in your local drive by running`mkdir bitmap-transformer`, then cd into that 
+1. In the terminal, create a folder in your local drive by running`mkdir bitmap-transformer`, then cd into that 
 directory.
-2.) Clone this repo `git clone https://github.com/emd5/bitmap-transformer.git`.
-3.) Open with IntelliJ: `idea .`, make sure JDK is installed.
-3.) To run application: `./gradlew run --args 'input output transform'`
+2. Clone this repo `git clone https://github.com/emd5/bitmap-transformer.git`.
+3. Open with IntelliJ: `idea .`, make sure JDK is installed.
+4. To run application: `./gradlew run --args 'input output transform'`
 
 
 
